@@ -1,0 +1,35 @@
+Dual Flashing LED Circuit Using 555 Timer
+
+  Objective:
+
+    The objective of this project was to design and implement a dual flashing LED circuit utilizing the 555 Timer Integrated Circuit (IC). The primary goal was to create a visually engaging effect by achieving the 
+
+    alternating blinking of two LEDs. This was accomplished through the generation of a continuous square wave signal by the 555 Timer IC, which is essential for creating a synchronized blinking pattern.
+
+  Project Description:
+
+    The project began with the conceptual design and simulation of a circuit using the 555 Timer IC in astable mode. The astable mode of the 555 Timer was chosen for its ability to produce a continuous square wave signal, 
+
+    which is ideal for generating periodic on-off cycles necessary for LED blinking.
+
+    The initial phase involved extensive breadboard testing to validate the circuit design and performance. During this phase, various configurations of resistors and capacitors were tested to fine-tune the duty cycle 
+
+    of the square wave signal. The goal was to achieve a stable and adjustable blinking rate for the LEDs. The breadboard prototype allowed for iterative design adjustments and troubleshooting, ensuring that the circuit met
+
+    the desired performance criteria.
+
+    Following successful breadboard testing, the project advanced to the design and assembly of a professional Printed Circuit Board (PCB). The transition to PCB assembly involved designing the circuit layout, placing 
+
+    components, and soldering connections. This stage was crucial for creating a robust and reliable final product. The PCB design ensured that the circuit was both functional and durable, suitable for practical applications
+
+    beyond the initial prototyping phase. The final circuit design enabled the two LEDs to blink alternately, creating a visually appealing dual flashing effect. The careful selection of high-value resistors and capacitors 
+
+    provided precise control over the blinking rate, while the PCB assembly enhanced the circuit’s stability and longevity.
+
+Outcome:
+
+    The completed project successfully demonstrated the effective application of the 555 Timer IC in astable mode to create a dual flashing LED circuit. The transition from breadboard testing to PCB assembly marked a 
+
+    significant milestone, resulting in a professionally assembled circuit that is both reliable and visually engaging. The project highlights the ability to design and implement electronic circuits with precise timing 
+
+    and component control, showcasing practical skills in both analog circuit design and PCB fabrication.
