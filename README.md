@@ -30,4 +30,4 @@
 
 # Circuit Diagram:
 
-
+<img width="462" alt="Dual Flashing LED Circuit using 555 timer - Circuit Diagram" src="https://github.com/user-attachments/assets/3f6e42dc-40d7-445f-989a-ad59628c647e">
