@@ -27,3 +27,7 @@
 3. Output - Part 3:
 
 <img width="504" alt="OUTPUT -2" src="https://github.com/user-attachments/assets/6f87af25-d5a2-42d5-8ba7-c95252fd810a">
+
+# Circuit Diagram:
+
+![image](https://github.com/user-attachments/assets/48801e50-fea4-417d-810e-901643df76a6)
