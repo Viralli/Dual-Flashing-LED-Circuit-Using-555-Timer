@@ -30,4 +30,4 @@
 
 # Circuit Diagram:
 
-![image](https://github.com/user-attachments/assets/48801e50-fea4-417d-810e-901643df76a6)
+
